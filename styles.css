@@ -1,0 +1,70 @@
+
+
+.container{
+    margin: 10%;
+    margin-top: 3%;
+}
+
+.cajita{
+    border: 1px solid gray;
+}
+
+img{
+    border: 1px solid gray;
+    margin: 4%;
+}
+
+.descripcion{
+    margin: auto;
+}
+
+.imgcard{
+    text-align: center;
+    margin: auto;
+}
+
+
+a:active{
+    font-weight:bold;
+}
+
+li:active{
+    font-weight: bold;
+}
+
+.footer{
+    color: white;
+    text-align: center;
+    background-color: black;  
+}
+
+.btn{
+    color:black;
+
+}
+
+.btn:hoover{
+    font-weight: bold;
+}
+
+.navbar-brand{
+    margin-left: 2%;
+}
+
+.collapse{
+    margin-right: 0;
+}
+
+.f{
+    margin-left: 25%;
+}
+
+
+.search{
+    padding: 0px;
+}
+
+.btn-outline-success {
+    color: black;
+    border-color: black;
+}
